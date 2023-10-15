@@ -1,6 +1,7 @@
 site_name: CISD-Documentation
-site_url: https://CISD-Documentation.com
+site_url: https://maxhao56.github.io/CISD-Documentation/
 nav:
   - Home : index.md
   - CISD-Frontend-v1 : Frontend-v1.md
+  - Muti-model database : Muti-model.md
 theme: readthedocs
