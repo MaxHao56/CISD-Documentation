@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://CISD-Documentation.com/</loc>
+         <loc>https://maxhao56.github.io/CISD-Documentation/</loc>
          <lastmod>2023-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://CISD-Documentation.com/Frontend-v1/</loc>
+         <loc>https://maxhao56.github.io/CISD-Documentation/Frontend-v1/</loc>
+         <lastmod>2023-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://maxhao56.github.io/CISD-Documentation/Muti-model/</loc>
          <lastmod>2023-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
